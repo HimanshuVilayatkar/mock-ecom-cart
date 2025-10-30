@@ -30,3 +30,4 @@ A full-stack e-commerce cart app built for the **Vibe Commerce Screening Assignm
 ```bash
 git clone https://github.com/<your-username>/mock-ecom-cart.git
 cd mock-ecom-cart
+https://youtu.be/Cjsl7iU8ipI
